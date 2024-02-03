@@ -8,13 +8,13 @@ function App() {
       <p> Hello </p>
 
       <ReactPlayer
-        url='/trp.mp4'
+        url='./trp.mp4'
         loop='true'
         autoplay='true'
         controls='true'
       />
 
-      <img src='/trp.gif' alt='hi' className='img' />
+      <img src='./trp.gif' alt='hi' className='img' />
 
     </>
   );
