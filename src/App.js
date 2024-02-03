@@ -5,6 +5,8 @@ function App() {
   return (
     <>
 
+      <p> Hello </p>
+
       <ReactPlayer
         url='/trp.mp4'
         loop='true'
